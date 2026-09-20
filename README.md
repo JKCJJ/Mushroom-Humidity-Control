@@ -1,6 +1,6 @@
-# Mushroom Growbox Humidity & Temperature Controller
+# Mushroom Farm Humidity & Temperature Controller
 
-An Arduino-based controller for a mushroom growbox that monitors temperature and humidity with an AHT10 sensor, drives a humidifier and fan via relays, and provides a button-navigated menu on a 128x64 SSD1306 OLED display.
+An Arduino-based controller for a mushroom farm that monitors temperature and humidity with an AHT10 sensor, drives a humidifier and fan via relays, and provides a button-navigated menu on a 128x64 SSD1306 OLED display.
 
 ## Features
 
